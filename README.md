@@ -18,6 +18,5 @@ I build data engines, automation tracking frameworks, and machine learning pipel
 ### 🛠️ Tech Stack & Skills
 * **Languages & Core Platforms:** Python 3.x, Java (AP CSA Core), Semantic HTML5, Custom CSS3
 * **Machine Learning & Engineering:** Supervised Linear Regression, Decision Tree Classification, `scikit-learn`, `pandas`, Data Chunking Optimization
-* **Systems & Environment:** <!--
-**contactakhilan-spec/contactakhilan-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
