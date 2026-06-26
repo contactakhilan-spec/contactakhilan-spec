@@ -4,6 +4,20 @@ I build data engines, automation tracking frameworks, and machine learning pipel
 
 ---
 
+
+### 💼 Professional Experience
+
+**Conversational AI Development Intern** | *Botpress Integration Frameworks*
+* Utilized the **Botpress Conversational AI platform** to architect and deploy an autonomous digital assistant for a regional business, optimizing customer support pipelines.
+* Configured **knowledge ingestion pipelines** to map vector data indices across corporate documents, resolving complex customer inquiries through real-time semantic LLM searches.
+* Programmed **deterministic fallback nodes** and intent validation cards to maintain rigid brand guidelines and prevent algorithmic model hallucinations.
+
+**Machine Learning QA & Alignment Engineering Intern** | *BloomTech Digital Solutions Inc.*
+* Served as a **Human-in-the-Loop validation engineer** to stress-test an enterprise-tier natural language processing (NLP) automated evaluation engine.
+* Executed **adversarial data modeling (red-teaming)** by generating complex stylistic and structural essay variations to evaluate the algorithm's robustness against input noise.
+* Analyzed scoring telemetry records to discover systemic edge cases, supplying critical **data alignment feedback** to optimize underlying algorithmic weights and criteria formatting.
+
+---
 ### 🚀 What I've Built
 
 | Project | What it does | Stack |
