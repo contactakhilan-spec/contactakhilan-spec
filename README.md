@@ -4,7 +4,7 @@ I build data engines, automation tracking frameworks, and machine learning pipel
 
 ---
 
-### 🚀 What I've Built
+### What I've Built
 
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
@@ -14,7 +14,7 @@ I build data engines, automation tracking frameworks, and machine learning pipel
 
 ---
 
-### 💼 Professional Experience
+### Professional Experience
 
 **Conversational AI Development Intern** | *Botpress Integration Frameworks*
 * Utilized the **Botpress Conversational AI platform** to architect and deploy an autonomous digital assistant for a regional business, optimizing customer support pipelines.
